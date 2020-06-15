@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_activity</string>
+    <string name="please_login_here">Please LOGIN here</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_up_here">Not signed up yet? Sign in here..</string>
+    <string name="no_of_attempts">No. of attempts remaining :</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
